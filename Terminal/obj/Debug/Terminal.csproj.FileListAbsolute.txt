@@ -1,0 +1,10 @@
+C:\projects\Terminal\Terminal\bin\Debug\Terminal.exe
+C:\projects\Terminal\Terminal\bin\Debug\Terminal.pdb
+C:\projects\Terminal\Terminal\obj\Debug\Terminal.csprojAssemblyReference.cache
+C:\projects\Terminal\Terminal\obj\Debug\Terminal.MainForm.resources
+C:\projects\Terminal\Terminal\obj\Debug\Terminal.Properties.Resources.resources
+C:\projects\Terminal\Terminal\obj\Debug\Terminal.csproj.GenerateResource.cache
+C:\projects\Terminal\Terminal\obj\Debug\Terminal.csproj.CoreCompileInputs.cache
+C:\projects\Terminal\Terminal\obj\Debug\Terminal.exe
+C:\projects\Terminal\Terminal\obj\Debug\Terminal.pdb
+C:\projects\Terminal\Terminal\obj\Debug\Terminal.Helpers.PropertiesToolForm.resources
